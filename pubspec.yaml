@@ -5,7 +5,7 @@ description: "qiyun lib test"
 # 版本号
 version: 1.0.2
 # 项目主页
-homepage: https://github.com/your-org/kiwin_lib
+homepage: https://github.com/Aliffter/base_lib.git
 
 environment:
   sdk: ^3.9.2
