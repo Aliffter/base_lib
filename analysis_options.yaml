@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
+linter:
+  rules:
+    unnecessary_overrides: false  # 关闭“Unnecessary override”检查
+    no_leading_underscores_for_local_identifiers: false
+    # 开启 const 的相关规则
+    prefer_const_constructors: true
+    prefer_const_constructors_in_immutables: true
+    prefer_const_declarations: true
+    prefer_const_literals_to_create_immutables: true
+

@@ -1,0 +1,2 @@
+static const btnAddSvg = 'lib/assets/svg/btn_add.svg';
+static const btnSubSvg = 'lib/assets/svg/btn_sub.svg';

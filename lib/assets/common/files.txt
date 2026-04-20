@@ -1,0 +1,2 @@
+static const checkboxDefaultPng = 'lib/assets/common/checkbox_default.png';
+static const checkboxSelectedPng = 'lib/assets/common/checkbox_selected.png';
