@@ -1,10 +1,6 @@
-# 包名，业务项目会通过这个名字引用。
 name: kiwin_lib
-# 包说明
 description: "qiyun lib test"
-# 版本号
 version: 1.0.2
-# 项目主页
 homepage: https://github.com/Aliffter/base_lib.git
 
 environment:
